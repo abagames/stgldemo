@@ -210,7 +210,7 @@ appFlag1
 * $playerX, $px			(x-coordinate of the position of the PLAYER)
 * $playerY, $py			(y-coordinate of the position of the PLAYER)
 * $enemyCount, $ec		(total numbers of enemies on the screen)
-* $angleToPlayer, $pta		(angle from this ACTOR to the PLAYER)
+* $angleToPlayer, $atp		(angle from this ACTOR to the PLAYER)
 * $distanceToPlayer, $dtp	(distance from this ACTOR to the PLAYER)
 * $ticks, $t			(frame ticks from this ACTOR is generated)
 * $parentX, $prx		(x-coordinate of the position of the PARENT_ACTOR)
